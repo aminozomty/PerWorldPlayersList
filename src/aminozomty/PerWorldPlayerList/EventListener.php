@@ -1,6 +1,6 @@
 <?php
 
-namespace PerWorldPlayersList;
+namespace aminozomty\PerWorldPlayersList;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
