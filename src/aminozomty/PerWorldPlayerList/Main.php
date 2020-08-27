@@ -1,6 +1,6 @@
 <?php
 
-namespace PerWorldPlayersList;
+namespace aminozomty\PerWorldPlayersList;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
