@@ -2,14 +2,16 @@
 
 namespace aminozomty\PerWorldPlayersList;
 
+use pocketmine\Server;
+use pocketmine\Player;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\entity\EntityLevelChangeEvent;
 use pocketmine\network\mcpe\protocol\PlayerListPacket;
 use pocketmine\network\mcpe\protocol\types\PlayerListEntry;
 use pocketmine\network\mcpe\protocol\types\SkinAdapterSingleton;
-use pocketmine\Server;
-use pocketmine\Player;
+
+use aminozomty\PerWorldPlayersList\Main;
 
 class EventListener implements Listener{
 
