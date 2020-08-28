@@ -47,7 +47,7 @@ class EventListener implements Listener{
             $pk = new PlayerListPacket();
             $pk->entries[] = $entry;
             $pk->type = PlayerListPacket::TYPE_REMOVE;
-            $player = $event->getpLAYER();
+            $player = $event->getPlayer();
             $player->sendDataPacket($pk);
         } 
     }
