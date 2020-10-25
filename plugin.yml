@@ -19,6 +19,8 @@ name: PerWorldPlayersList
 main: aminozomty\PerWorldPlayersList\Main
 api: 3.0.0
 version: 1.0.0
-mcpe-protocol: 408
+mcpe-protocol:
+- 408
+- 419
 author: aminozomty
 ...
