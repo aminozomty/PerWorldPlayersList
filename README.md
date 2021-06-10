@@ -10,13 +10,13 @@ A PocketMine-MP plugin that makes only shows players that are in the same world 
 
 # Notes
 
-This plugin was created by aminozomty. Thanks to Kygekraqmak for helping me.
+This plugin was created by aminozomty. Thanks to KygekDev for helping me.
 
 If you find any bug you can report it <a href="https://github.com/aminozomty/PerWorldPlayersList/issues">here</a>.
 
 # Testers
 
 - aminozomty
-- Kygekraqmak
+- KygekDev
 - Studiokikotv
 - Dmytro Dima
