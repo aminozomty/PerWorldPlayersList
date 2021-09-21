@@ -2,6 +2,8 @@
 
 A PocketMine-MP plugin that makes only shows players that are in the same world in the player list menu.
 
+Download the latest version of the plugin on Poggit: https://poggit.pmmp.io/p/PerWorldPlayersList
+
 # How to Install
 
 1. Download the plugin (.phar)
