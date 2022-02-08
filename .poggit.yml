@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/aminozomty/PerWorldPlayersList
+--- # Poggit-CI Manifest.  Open the CI at https://poggit.pmmp.io/ci/aminozomty/PerWorldPlayersList
 build-by-default: true
 branches:
 - master
