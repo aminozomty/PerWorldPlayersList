@@ -1,5 +1,7 @@
 # PerWorldPlayersList
 
+> **IMPORTANT:** This plugin will be discontinued soon because of some reasons. Please [see this issue](https://github.com/aminozomty/PerWorldPlayersList/issues/2) for more information.
+
 A PocketMine-MP plugin that makes only shows players that are in the same world in the player list menu.
 
 Download the latest version of the plugin on Poggit: https://poggit.pmmp.io/p/PerWorldPlayersList
