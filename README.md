@@ -1,6 +1,12 @@
 # PerWorldPlayersList
 
-> **IMPORTANT:** This plugin will be discontinued soon because of some reasons. Please [see this issue](https://github.com/aminozomty/PerWorldPlayersList/issues/2) for more information.
+---
+
+## End of Life Notice
+
+This plugin has reached its end of life date and is now discontinued because of some reasons. I was planning to archive this repository, however I don't have the permission to do so. Just be aware that this plugin will no longer receive any official updates. [See this issue](https://github.com/aminozomty/PerWorldPlayersList/issues/2) for more information.
+
+---
 
 A PocketMine-MP plugin that makes only shows players that are in the same world in the player list menu.
 
