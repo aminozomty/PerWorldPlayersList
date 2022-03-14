@@ -4,7 +4,7 @@
 
 ## End of Life Notice
 
-This plugin has reached its end of life date and is now discontinued because of some reasons. I was planning to archive this repository, however I don't have the permission to do so. Just be aware that this plugin will no longer receive any official updates. [See this issue](https://github.com/aminozomty/PerWorldPlayersList/issues/2) for more information.
+This plugin has reached its end of life date and is now discontinued because of some reasons. [See this issue](https://github.com/aminozomty/PerWorldPlayersList/issues/2) for more information.
 
 ---
 
